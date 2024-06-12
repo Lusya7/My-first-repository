@@ -55,4 +55,9 @@ git log --oneline --graph
 git branch -d <branch_name>
 ~~~
 
+## *Копирование удаленного репозитория*
+~~~sh
+git clone
+~~~
+
 # Конец подсказки :)))
