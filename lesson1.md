@@ -70,4 +70,10 @@ git push
 git pull
 ~~~
 
+## *Выкачка и слияние при конфликте*
+~~~sh
+git pull --rebase
+git rebase --continue
+~~~
+
 # Конец подсказки :)))
